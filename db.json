@@ -1,5 +1,4 @@
 {
-  
   "user": {
    "status": "OK",
    "errorcode": null,
@@ -11,8 +10,7 @@
             "name":"Sundar Rajan",
             "email" : "user@user.com"
         }
-  }
- ,
+  },
   "userfeed": {
     "status": "OK",
     "errorcode": null,
@@ -61,12 +59,12 @@
         }
     ]
 },
-  "login": {
-"status":"OK",
-"instanceid":"4bd526dd-2cf6-46 d8-8607-1af55bbb6b95",
-"name":"Sundar Rajan",
-"userid":"10213719465163371"
-}
+  "login": 
+  {
+    "status":"OK",
+    "instanceid":"4bd526dd-2cf6-46 d8-8607-1af55bbb6b95",
+    "name":"Sundar Rajan",
+    "userid":"10213719465163371"
+  }
   
-
 }
