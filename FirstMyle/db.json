@@ -1,0 +1,30 @@
+{
+  "userfeed": {
+    "status": "OK",
+    "errorcode": null,
+    "errormsg": null,
+    "content_cards": [
+        {
+            "cardid": "12345123451234512345",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "Entertainment",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "date": "4 Aug 2017",
+            "author": "Vivek Madhav",
+            "localityid": "84579827348761634587",
+            "localityname": "Koramangala",
+            "count": 1
+        }
+    ]
+},
+  "login": {
+"status":"OK",
+"instanceid":"4bd526dd-2cf6-46 d8-8607-1af55bbb6b95",
+"name":"Sundar Rajan",
+"userid":"10213719465163371"
+}
+
+}
