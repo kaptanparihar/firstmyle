@@ -1,6 +1,5 @@
 {
   
- "posts":[ 
   "user": {
    "status": "OK",
    "errorcode": null,
@@ -13,7 +12,7 @@
             "email" : "user@user.com"
         }
   }
- ],
+ ,
   "userfeed": {
     "status": "OK",
     "errorcode": null,
