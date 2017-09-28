@@ -1,5 +1,6 @@
 {
   
+ "posts"[ 
   "user": {
    "status": "OK",
    "errorcode": null,
@@ -11,7 +12,8 @@
             "name":"Sundar Rajan",
             "email" : "user@user.com"
         }
-  },
+  }
+ ],
   "userfeed": {
     "status": "OK",
     "errorcode": null,
