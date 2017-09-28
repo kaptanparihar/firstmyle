@@ -8,7 +8,7 @@
             "cardid": "12345123451234512345",
             "cardname": "Bang-clib-info",
             "cardtype": "News",
-            "category": "Entertainment",
+            "category": "ENTERTAINMENT",
             "title": "Koramangala Club to host Musical Night",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
             "image": null,
@@ -17,6 +17,33 @@
             "localityid": "84579827348761634587",
             "localityname": "Koramangala",
             "count": 1
+        },
+        {
+            "cardid": "12345123451234512315",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "SPORTS",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "date": "4 Aug 2017",
+            "author": "Vivek Madhav",
+            "localityid": "84579827348761634587",
+            "localityname": "Koramangala",
+            "count": 2
+        },  {
+            "cardid": "12345123451234512346",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "POLITICS",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "date": "4 Aug 2017",
+            "author": "Vivek Madhav",
+            "localityid": "84579827348761634587",
+            "localityname": "Koramangala",
+            "count": 3
         }
     ]
 },
