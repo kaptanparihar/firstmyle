@@ -1,4 +1,17 @@
 {
+  
+  "user": {
+   "status": "OK",
+   "errorcode": null,
+   "errormsg": null,
+   "profile" : 
+        {
+            "instanceid":"4bd526dd-2cf6-46 d8-8607-1af55bbb6b95",
+            "userid":"762897457623652765343",
+            "name":"Sundar Rajan",
+            "email" : "user@user.com"
+        }
+  },
   "userfeed": {
     "status": "OK",
     "errorcode": null,
@@ -53,5 +66,6 @@
 "name":"Sundar Rajan",
 "userid":"10213719465163371"
 }
+  
 
 }
