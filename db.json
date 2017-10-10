@@ -65,6 +65,222 @@
     "instanceid":"4bd526dd-2cf6-46 d8-8607-1af55bbb6b95",
     "name":"Sundar Rajan",
     "userid":"10213719465163371"
-  }
+  },
+  "campaign" :
+  {
+    "status": "OK",
+    "errorcode": null,
+    "errormsg": null,
+    "campaign_cards": [
+        {
+            "cardid": "12345123451234512345",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "Entertainment",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "active" : true ,
+            "fromdate": "4 Aug 2017",
+            "todate": null,
+            "author": "Vivek Madhav",
+            "localities": [
+                {
+                    "localityid": "123451",
+                    "localityname": "Koramangala Sector 1",
+                    "promotionflag": false,
+                    "promotionfee": 100
+                },
+                {
+                    "localityid": "123452",
+                    "localityname": "Koramangala Sector 2",
+                    "promotionflag": false,
+                    "promotionfee": 200
+                },
+                {
+                    "localityid": "123453",
+                    "localityname": "Koramangala Sector 3",
+                    "promotionflag": false,
+                    "promotionfee": 300
+                },
+                {
+                    "localityid": "123454",
+                    "localityname": "Koramangala Sector 4",
+                    "promotionflag": false,
+                    "promotionfee": 400
+                },
+                {
+                    "localityid": "123455",
+                    "localityname": "Koramangala Sector 5",
+                    "promotionflag": false,
+                    "promotionfee": 500
+                },
+                {
+                    "localityid": "123456",
+                    "localityname": "Koramangala Sector 6",
+                    "promotionflag": false,
+                    "promotionfee": 600
+                },
+                {
+                    "localityid": "123457",
+                    "localityname": "Koramangala Sector 7",
+                    "promotionflag": false,
+                    "promotionfee": 700
+                },
+                {
+                    "localityid": "123458",
+                    "localityname": "Koramangala Sector 8",
+                    "promotionflag": false,
+                    "promotionfee": 800
+                },
+                {
+                    "localityid": "123459",
+                    "localityname": "Koramangala Sector 9",
+                    "promotionflag": false,
+                    "promotionfee": 900
+                }
+            ],
+            "count": 1
+        }, {
+            "cardid": "12345123451234512345",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "SPORTS",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "active" : true ,
+            "fromdate": "4 Aug 2017",
+            "todate": null,
+            "author": "Vivek Madhav",
+            "localities": [
+                {
+                    "localityid": "123451",
+                    "localityname": "Koramangala Sector 1",
+                    "promotionflag": false,
+                    "promotionfee": 100
+                },
+                {
+                    "localityid": "123452",
+                    "localityname": "Koramangala Sector 2",
+                    "promotionflag": false,
+                    "promotionfee": 200
+                },
+                {
+                    "localityid": "123453",
+                    "localityname": "Koramangala Sector 3",
+                    "promotionflag": false,
+                    "promotionfee": 300
+                },
+                {
+                    "localityid": "123454",
+                    "localityname": "Koramangala Sector 4",
+                    "promotionflag": false,
+                    "promotionfee": 400
+                },
+                {
+                    "localityid": "123455",
+                    "localityname": "Koramangala Sector 5",
+                    "promotionflag": false,
+                    "promotionfee": 500
+                },
+                {
+                    "localityid": "123456",
+                    "localityname": "Koramangala Sector 6",
+                    "promotionflag": false,
+                    "promotionfee": 600
+                },
+                {
+                    "localityid": "123457",
+                    "localityname": "Koramangala Sector 7",
+                    "promotionflag": false,
+                    "promotionfee": 700
+                },
+                {
+                    "localityid": "123458",
+                    "localityname": "Koramangala Sector 8",
+                    "promotionflag": false,
+                    "promotionfee": 800
+                },
+                {
+                    "localityid": "123459",
+                    "localityname": "Koramangala Sector 9",
+                    "promotionflag": false,
+                    "promotionfee": 900
+                }
+            ],
+            "count": 2
+        },{
+            "cardid": "12345123451234512345",
+            "cardname": "Bang-clib-info",
+            "cardtype": "News",
+            "category": "Entertainment",
+            "title": "Koramangala Club to host Musical Night",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "image": null,
+            "active" : false ,
+            "fromdate": "4 Aug 2017",
+            "todate": null,
+            "author": "Vivek Madhav",
+            "localities": [
+                {
+                    "localityid": "123451",
+                    "localityname": "Koramangala Sector 1",
+                    "promotionflag": false,
+                    "promotionfee": 100
+                },
+                {
+                    "localityid": "123452",
+                    "localityname": "Koramangala Sector 2",
+                    "promotionflag": false,
+                    "promotionfee": 200
+                },
+                {
+                    "localityid": "123453",
+                    "localityname": "Koramangala Sector 3",
+                    "promotionflag": false,
+                    "promotionfee": 300
+                },
+                {
+                    "localityid": "123454",
+                    "localityname": "Koramangala Sector 4",
+                    "promotionflag": false,
+                    "promotionfee": 400
+                },
+                {
+                    "localityid": "123455",
+                    "localityname": "Koramangala Sector 5",
+                    "promotionflag": false,
+                    "promotionfee": 500
+                },
+                {
+                    "localityid": "123456",
+                    "localityname": "Koramangala Sector 6",
+                    "promotionflag": false,
+                    "promotionfee": 600
+                },
+                {
+                    "localityid": "123457",
+                    "localityname": "Koramangala Sector 7",
+                    "promotionflag": false,
+                    "promotionfee": 700
+                },
+                {
+                    "localityid": "123458",
+                    "localityname": "Koramangala Sector 8",
+                    "promotionflag": false,
+                    "promotionfee": 800
+                },
+                {
+                    "localityid": "123459",
+                    "localityname": "Koramangala Sector 9",
+                    "promotionflag": false,
+                    "promotionfee": 900
+                }
+            ],
+            "count": 1
+        }
+    ]
+}
   
 }
