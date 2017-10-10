@@ -49,7 +49,7 @@
             "cardtype": "News",
             "category": "POLITICS",
             "title": "Koramangala Club to host Musical Night",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "body": "Lorem ipsum",
             "image": null,
             "date": "4 Aug 2017",
             "author": "Vivek Madhav",
@@ -78,7 +78,7 @@
             "cardtype": "News",
             "category": "Entertainment",
             "title": "Koramangala Club to host Musical Night",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "body": "Lorem ipsum",
             "image": null,
             "active" : true ,
             "fromdate": "4 Aug 2017",
@@ -99,40 +99,13 @@
                 }
             ],
             "count": 1
-        }, {
+        },{
             "cardid": "12345123451234512345",
             "cardname": "Bang-clib-info",
             "cardtype": "News",
             "category": "SPORTS",
             "title": "Koramangala Club to host Musical Night",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
-            "image": null,
-            "active" : true ,
-            "fromdate": "4 Aug 2017",
-            "todate": null,
-            "author": "Vivek Madhav",
-            "localities": [
-                {
-                    "localityid": "123453",
-                    "localityname": "Koramangala Sector 3",
-                    "promotionflag": false,
-                    "promotionfee": 300
-                },
-                {
-                    "localityid": "123454",
-                    "localityname": "Koramangala Sector 4",
-                    "promotionflag": false,
-                    "promotionfee": 400
-                }
-            ],
-            "count": 2
-        },{
-            "cardid": "12345123451234512345",
-            "cardname": "Bang-clib-info",
-            "cardtype": "News",
-            "category": "Entertainment",
-            "title": "Koramangala Club to host Musical Night",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat enim vel est elementum",
+            "body": "Lorem Ipsum",
             "image": null,
             "active" : false ,
             "fromdate": "4 Aug 2017",
@@ -152,7 +125,7 @@
                     "promotionfee": 600
                 }
             ],
-            "count": 1
+            "count": 2
         }
     ]
 }
