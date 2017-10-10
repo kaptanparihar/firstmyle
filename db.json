@@ -96,48 +96,6 @@
                     "localityname": "Koramangala Sector 2",
                     "promotionflag": false,
                     "promotionfee": 200
-                },
-                {
-                    "localityid": "123453",
-                    "localityname": "Koramangala Sector 3",
-                    "promotionflag": false,
-                    "promotionfee": 300
-                },
-                {
-                    "localityid": "123454",
-                    "localityname": "Koramangala Sector 4",
-                    "promotionflag": false,
-                    "promotionfee": 400
-                },
-                {
-                    "localityid": "123455",
-                    "localityname": "Koramangala Sector 5",
-                    "promotionflag": false,
-                    "promotionfee": 500
-                },
-                {
-                    "localityid": "123456",
-                    "localityname": "Koramangala Sector 6",
-                    "promotionflag": false,
-                    "promotionfee": 600
-                },
-                {
-                    "localityid": "123457",
-                    "localityname": "Koramangala Sector 7",
-                    "promotionflag": false,
-                    "promotionfee": 700
-                },
-                {
-                    "localityid": "123458",
-                    "localityname": "Koramangala Sector 8",
-                    "promotionflag": false,
-                    "promotionfee": 800
-                },
-                {
-                    "localityid": "123459",
-                    "localityname": "Koramangala Sector 9",
-                    "promotionflag": false,
-                    "promotionfee": 900
                 }
             ],
             "count": 1
@@ -155,18 +113,6 @@
             "author": "Vivek Madhav",
             "localities": [
                 {
-                    "localityid": "123451",
-                    "localityname": "Koramangala Sector 1",
-                    "promotionflag": false,
-                    "promotionfee": 100
-                },
-                {
-                    "localityid": "123452",
-                    "localityname": "Koramangala Sector 2",
-                    "promotionflag": false,
-                    "promotionfee": 200
-                },
-                {
                     "localityid": "123453",
                     "localityname": "Koramangala Sector 3",
                     "promotionflag": false,
@@ -177,36 +123,6 @@
                     "localityname": "Koramangala Sector 4",
                     "promotionflag": false,
                     "promotionfee": 400
-                },
-                {
-                    "localityid": "123455",
-                    "localityname": "Koramangala Sector 5",
-                    "promotionflag": false,
-                    "promotionfee": 500
-                },
-                {
-                    "localityid": "123456",
-                    "localityname": "Koramangala Sector 6",
-                    "promotionflag": false,
-                    "promotionfee": 600
-                },
-                {
-                    "localityid": "123457",
-                    "localityname": "Koramangala Sector 7",
-                    "promotionflag": false,
-                    "promotionfee": 700
-                },
-                {
-                    "localityid": "123458",
-                    "localityname": "Koramangala Sector 8",
-                    "promotionflag": false,
-                    "promotionfee": 800
-                },
-                {
-                    "localityid": "123459",
-                    "localityname": "Koramangala Sector 9",
-                    "promotionflag": false,
-                    "promotionfee": 900
                 }
             ],
             "count": 2
@@ -223,31 +139,7 @@
             "todate": null,
             "author": "Vivek Madhav",
             "localities": [
-                {
-                    "localityid": "123451",
-                    "localityname": "Koramangala Sector 1",
-                    "promotionflag": false,
-                    "promotionfee": 100
-                },
-                {
-                    "localityid": "123452",
-                    "localityname": "Koramangala Sector 2",
-                    "promotionflag": false,
-                    "promotionfee": 200
-                },
-                {
-                    "localityid": "123453",
-                    "localityname": "Koramangala Sector 3",
-                    "promotionflag": false,
-                    "promotionfee": 300
-                },
-                {
-                    "localityid": "123454",
-                    "localityname": "Koramangala Sector 4",
-                    "promotionflag": false,
-                    "promotionfee": 400
-                },
-                {
+                                {
                     "localityid": "123455",
                     "localityname": "Koramangala Sector 5",
                     "promotionflag": false,
@@ -258,24 +150,6 @@
                     "localityname": "Koramangala Sector 6",
                     "promotionflag": false,
                     "promotionfee": 600
-                },
-                {
-                    "localityid": "123457",
-                    "localityname": "Koramangala Sector 7",
-                    "promotionflag": false,
-                    "promotionfee": 700
-                },
-                {
-                    "localityid": "123458",
-                    "localityname": "Koramangala Sector 8",
-                    "promotionflag": false,
-                    "promotionfee": 800
-                },
-                {
-                    "localityid": "123459",
-                    "localityname": "Koramangala Sector 9",
-                    "promotionflag": false,
-                    "promotionfee": 900
                 }
             ],
             "count": 1
